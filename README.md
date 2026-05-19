@@ -1,7 +1,6 @@
 # Nashville Housing Data Cleaning & Analysis Project
-
 ## Project Overview
-An end-to-end data cleaning and housing market analysis project using MySQL, Python (Pandas), and Tableau Public.
+An end-to-end data-cleaning and housing-market analysis project using MySQL, Python (Pandas), and Tableau Public.
 
 The project focuses on transforming raw Nashville housing data into a clean and analytics-ready dataset, followed by exploratory data analysis and interactive visualizations.
 ---
