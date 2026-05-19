@@ -49,6 +49,17 @@ Performed exploratory data analysis using Pandas:
 - Goodlettsville had the highest property concentration
 - Significant missing-value trends identified in owner and property data
 ---
+## Dashboard Preview
+<img width="1854" height="815" alt="Nashville Housing Data Cleaning Dashboard" src="https://github.com/user-attachments/assets/58482b7f-6371-4f0e-a644-9a011a70a1e9" />
+## KPI Summary Preview
+<img width="1086" height="182" alt="Housing_kpi" src="https://github.com/user-attachments/assets/9b8154bd-3c80-4f96-a6df-a30611fd8d1d" />
+## Property Distribution Preview
+<img width="1086" height="243" alt="Preperty_distribution" src="https://github.com/user-attachments/assets/c571b227-1e6b-4e92-a32a-adb83327eba9" />
+## Landuse Distribution Preview
+<img width="1086" height="295" alt="Landuse_distribution" src="https://github.com/user-attachments/assets/da444173-69a6-4b66-bbe5-6b425206ce4b" />
+## Housing Scatter Plot Preview
+<img width="927" height="752" alt="Housing_scatterplot" src="https://github.com/user-attachments/assets/ed553ed4-3888-4163-b7b4-0c300d594de4" />
+---
 ## Tableau Dashboard
 https://public.tableau.com/app/profile/mounish.kamma/viz/NashvilleHousingDataCleaningAnalysisDashboard/NashvilleHousingDataCleaningDashboard
 ---
